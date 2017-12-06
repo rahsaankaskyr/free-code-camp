@@ -40,7 +40,9 @@
 </ul>
 <p>Top 3 things cats hate:</p>
 <ol>
+  <li>flea treatment</li>
+  <li>thunder</li>
   <li>other cats</li>
-  <li>hugs</li>
-  <li>balls</li>
 </ol>
+
+<input type="text">
