@@ -30,10 +30,17 @@
 
 <p>Click here for <a href="#">cat photos</a>.</p>
 
-<a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
+<a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://bit.ly/fcc-relaxing-cat"></a>
 
+<p>Things cats love:</p>
 <ul>
-  <li>catnip</li>
-  <li>tacos</li>
-  <li>food</li>
+  <li>cat nip</li>
+  <li>laser pointers</li>
+  <li>lasagna</li>
 </ul>
+<p>Top 3 things cats hate:</p>
+<ol>
+  <li>other cats</li>
+  <li>hugs</li>
+  <li>balls</li>
+</ol>
