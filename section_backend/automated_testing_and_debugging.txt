@@ -1,0 +1,6 @@
+Use the JavaScript Console
+
+
+
+
+Using typeof
