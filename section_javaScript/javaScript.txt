@@ -11,4 +11,5 @@ MEAN, MERN full-stack
 */
 
 
-Declare JavaScript Variables
+- Declare JavaScript Variables
+- Storing Values with the Assignment Operator
