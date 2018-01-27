@@ -24,3 +24,4 @@ MEAN, MERN full-stack
 - Increment a Number with JavaScript
 - Decrement a Number with JavaScript
 - Create Decimal Numbers with JavaScript
+- Multiply Two Decimals with JavaScript
