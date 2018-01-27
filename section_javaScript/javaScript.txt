@@ -19,3 +19,4 @@ MEAN, MERN full-stack
 - Understanding Uninitialized Variables
 - Understanding Case Sensitivity in Variables
 - Subtract One Number from Another with JavaScript
+- Multiply Two Numbers with JavaScript
