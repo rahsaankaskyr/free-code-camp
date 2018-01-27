@@ -18,3 +18,4 @@ MEAN, MERN full-stack
 - Initializing Variables with the Assignment Operator
 - Understanding Uninitialized Variables
 - Understanding Case Sensitivity in Variables
+- Subtract One Number from Another with JavaScript
