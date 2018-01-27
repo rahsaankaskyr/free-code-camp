@@ -21,3 +21,4 @@ MEAN, MERN full-stack
 - Subtract One Number from Another with JavaScript
 - Multiply Two Numbers with JavaScript
 - Divide One Number by Another with JavaScript
+- Increment a Number with JavaScript
