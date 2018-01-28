@@ -30,4 +30,5 @@ MEAN, MERN full-stack
 - Compound Assignment With Augmented Addition
 - Compound Assignment With Augmented Subtraction
 - Compound Assignment With Augmented Multiplication
-- Convert Celsius to Fahrenheit
+- Convert Celsius to Fahrenheit - var fahrenheit = (celsius * (9/5)) + 32;
+				- convertToF(0);
