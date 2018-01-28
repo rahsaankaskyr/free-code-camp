@@ -32,4 +32,5 @@ MEAN, MERN full-stack
 - Compound Assignment With Augmented Multiplication
 - Convert Celsius to Fahrenheit - var fahrenheit = (celsius * (9/5)) + 32;
 				- convertToF(0);
-- Declare String Variables
+- Declare String Variables 	- var myName = "your name";
+- Escaping Literal Quotes in Strings " \' "
